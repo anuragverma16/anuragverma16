@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <div align="center">
-  <img src="]]https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb66926d4c6158b6c/69d41ea59d80127a3038fb86/github_PJ_McDonnell_shutterstock.jpg" alt="Anurag Verma — Full Stack Developer" width="100%" />
+  <img src="github_PJ_McDonnell_shutterstock.jpg" alt="Anurag Verma — Full Stack Developer" width="100%" />
 </div>
 
 <div align="center">
