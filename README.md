@@ -1,126 +1,172 @@
-<!-- PROFILE BANNER -->
-<div align="center">
-  <img src="github_PJ_McDonnell_shutterstock.jpg" alt="Anurag Verma — Full Stack Developer" width="100%" />
-</div>
+ <!-- ANURAG VERMA | PROFESSIONAL ANIMATED GITHUB PROFILE -->
 
 <div align="center">
 
-# Anurag Verma
+  <img src="./github_PJ_McDonnell_shutterstock.jpg" alt="Anurag Verma - Full Stack Developer" width="100%" />
 
-### Full Stack Developer | MERN Stack | Java & DSA
+  <br/>
 
-Building practical web applications with clean code, thoughtful design, and reliable backend systems.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Anurag+Verma+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;Backend+Development+Enthusiast;Java+%7C+Data+Structures+%26+Algorithms;Building+Projects+That+Solve+Real+Problems" alt="Animated developer introduction" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/anuragverma16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-verma-60b726294/?isSelfProfile=true)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-anuragverma.vercel.app/)
+  <h3>Full Stack Developer | MERN Stack | Java & DSA</h3>
+
+  <p>
+    Building practical web applications with clean code, thoughtful design,
+    and reliable backend systems.
+  </p>
+
+  <p>
+    <a href="https://github.com/anuragverma16">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/anurag-verma-60b726294/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://portfolio-anuragverma.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=anuragverma16&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a B.Tech student at IMS Engineering College, focused on full-stack development, backend engineering, and problem-solving.
+- 🎓 B.Tech student at IMS Engineering College.
+- 💻 Focused on full-stack development using the MERN stack.
+- ⚙️ Learning backend architecture, REST APIs, authentication, and database design.
+- ☕ Practicing Data Structures and Algorithms using Java.
+- 🚀 Building practical applications that solve real-world problems.
+- 🎯 Interested in Software Developer, Backend Developer, and MERN Stack Developer opportunities.
 
-- Developing full-stack applications using the MERN stack.
-- Learning backend architecture, REST APIs, authentication, and database design.
-- Practicing Data Structures and Algorithms using Java.
-- Building real-world projects focused on usability and practical business needs.
-- Interested in entry-level Software Developer, MERN Stack Developer, and Full Stack Developer opportunities.
+---
 
-## Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Frontend
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML, CSS, JavaScript, React and Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend technologies" />
 
-### Backend & Databases
+### Backend Development & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi" alt="Node.js, Express, MongoDB, MySQL and FastAPI" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi" alt="Backend technologies and databases" />
 
-### Languages & Tools
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,postman" alt="Java, Git, GitHub, VS Code and Postman" />
+<img src="https://skillicons.dev/icons?i=java,javascript" alt="Programming languages" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify" alt="Development tools and platforms" />
 
 </div>
 
-## Featured Projects
+---
+
+## 🚀 Featured Projects
 
 ### 1. InterviewIQ — Interview Preparation Platform
 
-A web application for technical interview practice and interview preparation.
+A web application focused on technical interview practice and interview preparation.
 
-- **Focus:** Full-stack development and AI integration
-- **Technologies:** MERN stack and Gemini, where implemented
-- **Highlights:** Practice workflows and interview-focused features
+- **Focus:** Full-stack development and AI integration.
+- **Technologies:** MERN stack and Gemini, where implemented.
+- **Goal:** Make interview practice more accessible and structured.
 
-[View repositories](https://github.com/anuragverma16?tab=repositories)
+🔗 [Explore my repositories](https://github.com/anuragverma16?tab=repositories)
 
 ### 2. Savoria — Restaurant Ordering Platform
 
-A restaurant-focused ordering and management application.
+A restaurant ordering and management application designed to streamline digital restaurant workflows.
 
-- **Focus:** Restaurant workflows and customer ordering
-- **Technologies:** React, Node.js, Express, MongoDB
-- **Highlights:** Restaurant management and online ordering features
+- **Focus:** Customer ordering and restaurant management.
+- **Technologies:** React, Node.js, Express, and MongoDB.
+- **Goal:** Deliver a smooth digital ordering experience.
 
-[View repositories](https://github.com/anuragverma16?tab=repositories)
+🔗 [Explore my repositories](https://github.com/anuragverma16?tab=repositories)
 
 ### 3. Enterprise Quality Assurance and Optimizer Engine
 
-A content evaluation platform designed to analyze written content and provide improvement suggestions.
+A content evaluation platform designed to analyze written content and recommend improvements.
 
-- **Focus:** Content quality evaluation and optimization
-- **Technologies:** React, FastAPI, NLP tools, and databases
-- **Highlights:** Content analysis, scoring, and revision workflows
+- **Focus:** Content quality assessment and optimization.
+- **Technologies:** React, FastAPI, NLP tools, and databases.
+- **Goal:** Support structured content review and improvement.
 
-[View repositories](https://github.com/anuragverma16?tab=repositories)
+🔗 [Explore my repositories](https://github.com/anuragverma16?tab=repositories)
 
-> Replace the repository links above with each project's actual GitHub URL. Include only features that are implemented or clearly identified as in progress.
+---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anuragverma16&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragverma16&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" />
-
-</div>
-
-## Contribution Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragverma16&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuragverma16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-</div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragverma16&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
 
-## Currently Focusing On
+  <br/><br/>
 
-- Backend development with Node.js and Express
-- REST API design and authentication
-- Database design with MongoDB and MySQL
-- Data Structures and Algorithms in Java
-- Writing maintainable code and building deployable applications
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-anuragverma16-181717?style=flat-square&logo=github)](https://github.com/anuragverma16)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+  <img width="70%" src="https://streak-stats.demolab.com?user=anuragverma16&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-*Learn consistently. Build thoughtfully. Improve every day.*
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragverma16&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
+
+---
+
+## 🎯 Currently Focusing On
+
+<div align="center">
+
+| Area | Current Focus |
+|:---|:---|
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | MongoDB, MySQL |
+| Authentication | JWT and secure authentication fundamentals |
+| DSA | Java and problem-solving patterns |
+| Development | Full-stack projects and clean code |
+| Career | Preparing for entry-level software development roles |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/anuragverma16">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anurag-verma-60b726294/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-anuragverma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=googlechrome" alt="Portfolio"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learn+consistently.;Build+thoughtfully.;Solve+problems+every+day.;Keep+growing+as+a+developer." alt="Animated closing message"/>
+
+  <br/>
+
+  **Thanks for visiting my profile! ⭐**
+
+</div>
+
+<!-- END OF PROFILE README --> 
