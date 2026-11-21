@@ -327,11 +327,7 @@ const anurag = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragverma16/anuragverma16/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragverma16/anuragverma16/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/anuragverma16/anuragverma16/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img src="./assets/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 
 </div>
 
