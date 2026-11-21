@@ -1,0 +1,42 @@
+name: Update GitHub Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate actual contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: anuragverma16
+          outputs: |
+            assets/github-contribution-grid-snake.svg?palette=github-dark
+
+      - name: Commit updated snake into the profile repository
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contribution-grid-snake.svg
+          if git diff --cached --quiet; then
+            echo "Snake unchanged"
+          else
+            git commit -m "chore: update contribution snake [skip ci]"
+            git push
+          fi
