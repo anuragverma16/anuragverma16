@@ -203,68 +203,79 @@ that solve real-world problems.
 
 ## 🔭 What I'm Currently Working On
 
-```javascript
-const anurag = {
-  name: "Anurag Verma",
+<div align="center">
 
-  role: "Full Stack Developer",
+<table>
+<tr>
+<td align="center" width="33%">👤<br/><b>Anurag Verma</b><br/><sub>Full Stack Developer</sub></td>
+<td align="center" width="33%">🎓<br/><b>B.Tech</b><br/><sub>IMS Engineering College</sub></td>
+<td align="center" width="33%">🎯<br/><b>Career Goal</b><br/><sub>Become a skilled Software Engineer</sub></td>
+</tr>
+</table>
 
-  education: "B.Tech | IMS Engineering College",
+<br/>
 
-  technologies: {
-    frontend: [
-      "React.js",
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "Tailwind CSS"
-    ],
+<table>
+<tr><th>Area</th><th>Technologies</th></tr>
+<tr><td>🎨 <b>Frontend</b></td><td>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</td></tr>
+<tr><td>⚙️ <b>Backend</b></td><td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</td></tr>
+<tr><td>🗄️ <b>Databases</b></td><td>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</td></tr>
+<tr><td>☕ <b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</td></tr>
+<tr><td>🧰 <b>Tools</b></td><td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</td></tr>
+</table>
 
-    backend: [
-      "Node.js",
-      "Express.js",
-      "FastAPI"
-    ],
+<br/>
 
-    databases: [
-      "MongoDB",
-      "MySQL"
-    ],
+<table>
+<tr><th width="50%">📖 Currently Learning</th><th width="50%">🤝 Open to Collaborate On</th></tr>
+<tr>
+<td valign="top">
+<ul>
+<li>Backend Architecture</li>
+<li>REST API Design</li>
+<li>Authentication &amp; Authorization</li>
+<li>Data Structures &amp; Algorithms</li>
+<li>System Design Fundamentals</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li>MERN Stack Applications</li>
+<li>Open Source Projects</li>
+<li>Backend APIs</li>
+<li>AI Integrated Web Apps</li>
+</ul>
+</td>
+</tr>
+</table>
 
-    languages: [
-      "Java",
-      "JavaScript"
-    ],
+<br/>
 
-    tools: [
-      "Git",
-      "GitHub",
-      "Postman",
-      "VS Code",
-      "Vercel"
-    ]
-  },
+<b><i>💡 "Learn. Build. Improve. Repeat."</i></b>
 
-  currentlyLearning: [
-    "Backend Architecture",
-    "REST API Design",
-    "Authentication & Authorization",
-    "Data Structures & Algorithms",
-    "System Design Fundamentals"
-  ],
-
-  collaborationInterests: [
-    "MERN Stack Applications",
-    "Open Source Projects",
-    "Backend APIs",
-    "AI Integrated Web Apps"
-  ],
-
-  careerGoal: "Become a skilled Software Engineer",
-
-  motto: "Learn. Build. Improve. Repeat."
-};
-```
+</div>
 
 ---
 
